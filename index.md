@@ -3,7 +3,7 @@
     <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px"><br>
     <br><p>
     Mobile: +91 9028706547<br>
-    Email:  keyurtalathi1993@gmail.com</p>
+    Email:  <a>keyurtalathi1993@gmail.com</a></p>
   </div>
   <div class="column" style="width:50%">
      <br>
