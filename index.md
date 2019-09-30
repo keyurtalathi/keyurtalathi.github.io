@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row" style="height:500px">
   <div class="column" style="width:50%">
     <img src="/images/my_pic.jpg" alt="Avatar" style="width:200px">
   </div>
