@@ -1,6 +1,6 @@
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <img src="/images/my_pic.jpg" stype="width:300px"></img>
+  <div class="column">
+    <img src="/images/my_pic.jpg" alt="Avatar" style="width:200px">
   </div>
   <div class="column" style="background-color:#bbb;">
      <br><br><br><br>
