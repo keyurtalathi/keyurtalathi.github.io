@@ -1,6 +1,6 @@
 <div class="row" style="height:500px">
   <div class="column" style="width:50%">
-    <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px"><br>
+    <img src="/images/my_pic.jpeg" alt="Avatar" style="width:300px"><br>
     <br><p>
     Mobile: +91 9028706547<br>
     Email:  keyurtalathi1993@gmail.com</p>
