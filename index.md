@@ -2,7 +2,7 @@
   <div class="column" style="width:50%">
     <img src="/images/my_pic.jpeg" alt="Avatar" style="width:300px"><br>
     <br><p>
-    Mobile: +91 9028706547<br>
+    Mobile: +91 9028706547, +91 7020693428<br>
     Email:  keyurtalathi1993@gmail.com</p>
   </div>
   <div class="column" style="width:50%">
